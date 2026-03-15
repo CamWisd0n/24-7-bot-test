@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CamWisd0n.aternos.me",
+    "ip": "CamWisd0n.aternos.me:58823",
     "port": 58823,
     "version": "",
     "try-creative": false
